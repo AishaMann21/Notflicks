@@ -1,0 +1,22 @@
+#h1{
+    font-family: monospace;
+    color: white;
+    font-size:20px;
+    display:flex;
+    justify-content:center;
+}
+body{
+    background-color: black;
+    color:white;
+}
+#sbar{
+    display:flex;
+    justify-content:center;
+}
+
+#img {
+    margin-top: 40px;
+    display:flex;
+    justify-content:center;
+}
+
