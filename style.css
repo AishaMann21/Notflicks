@@ -1,17 +1,18 @@
 #h1{
-    font-family: monospace;
-    color: white;
-    font-size:20px;
+    font-family: 'Pacifico', cursive;
+    color: black;
+    font-size:30px;
     display:flex;
     justify-content:center;
 }
 body{
-    background-color: black;
-    color:white;
+    background-color: #9A0303;
+    color:black;
 }
 #sbar{
     display:flex;
     justify-content:center;
+    
 }
 
 #img {
@@ -19,7 +20,56 @@ body{
     display:flex;
     justify-content:center;
 }
+
+
+#img2 {
+    margin-top: 40px;
+    display:flex;
+    justify-content: space-around;
+}
 h2{
     display: flex;
     justify-content: center;
+    font-size: 38px;
+    font-family: roboto;
+
+ 
+}
+
+#link{
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    background-color:white;
+    color:black;
+    height: 32px;
+    width:502px;
+    font-size:18px;
+}
+
+#searchbutton {
+    background-color:white;
+    height: 39px;
+    width:82px;
+    
+}
+
+#link{
+    color:black;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size:30px;
+    
+}
+h3{
+    font-size: 30px;
+    font-family: roboto;
+    margin-left: 30px;
+    
+}
+button{
+    font-family: 'Pacifico', cursive;
+    font-size:px;
+
 }
