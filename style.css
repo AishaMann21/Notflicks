@@ -56,10 +56,11 @@ input {
     
 }
 
-#link{
-    color:black;
+#link,#link:visited{
     font-family: 'Yanone Kaffeesatz', sans-serif;
     font-size:30px;
+    color: yellow;
+
     
 }
 h3{
@@ -70,6 +71,6 @@ h3{
 }
 button{
     font-family: 'Pacifico', cursive;
-    font-size:px;
+    font-size:18px;
 
 }
